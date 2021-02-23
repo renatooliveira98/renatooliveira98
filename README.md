@@ -1,5 +1,19 @@
-### Hi there 👋
+### Hi, I,m Renato 👋
 
+Eu sou estudante de Engenharia de Software e desenvolvedor backend 🎓💻
+
+## Linguagens e Ferramentas
+
+<p align="center">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Java.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Eclipse.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Hibernate.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/SpringBoot.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Spring.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Postman.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/MySQL.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/PostgreSQL.svg" alt="angular" style="vertical-align:top; margin:4px">
+</p>
 <!--
 **renatooliveira98/renatooliveira98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
