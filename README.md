@@ -1,6 +1,6 @@
 ### Hi, I,m Renato 👋
 
-<b> Eu sou estudante de Engenharia de Software e desenvolvedor backend 🎓💻
+<b> Estudante de Engenharia de Software e desenvolvedor backend 🎓💻
 
 ## Linguagens e Ferramentas
 
